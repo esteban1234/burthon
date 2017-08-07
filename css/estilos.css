@@ -187,8 +187,69 @@ footer p{
    width: 100%;
    background-color: rgba(0,0,0, .6);
 }*/
-
+.bannern{
+    height: 500px;
+    background: url('../img/bannern.jpg');
+    background-size: cover;
+    /*background-position: center center;*/
+    /*background-repeat: no-repeat;*/
+    background-attachment: fixed;
+    overflow: hidden;
+}
+.logo2{
+  width: 35%;
+  /*margin-top: 3%;*/
+  background-color: rgba(255,255,255, .5);
+  height: 500px;
+}
+.quienes{
+  /*border: 2px red solid;*/
+}
+.quieness{
+  /*border: 2px green solid;*/
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.mvv{
+  /*border: 2px red solid;*/
+  background-color:  #f7f9f9;
+  overflow: hidden;
+}
+.mvv2{
+  /*border: 2px red solid;*/
+  margin-top: 10%;
+  margin-bottom: 10%;
+  
+}
+.mision{
+  /*border: 2px red solid;*/
+  padding: 20px;
+  height: 250px;
+  margin-left: 5%;
+  background-color: #ecf0f1;
+}
 /*-------------------servicios---------------*/
+.banners{
+    height: 500px;
+    background: url('../img/bannern2.jpeg');
+    background-size: cover;
+    /*background-position: center center;*/
+    /*background-repeat: no-repeat;*/
+    background-attachment: fixed;
+    overflow: hidden;
+}
+.logo3{
+  width: 35%;
+  /*margin-top: 3%;*/
+  background-color: rgba(255,255,255, .7);
+  height: 500px;
+}
+.cservicios{
+  /*border: 2px red solid;*/
+  padding: 100px 0px;
+}
 
-
+.cservicioss{
+  /*border: 2px green solid;*/
+}
 /*-----------------contacto-----------------*/

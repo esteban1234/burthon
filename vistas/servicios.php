@@ -3,6 +3,90 @@
 <body>
 
 
+<header>
+    <nav>
+        <ul>
+            <a class="selector" href="../index.php">INICIO</a>
+            <a class="selector" href="nosotros.php">NOSOTROS</a>
+            <a class="selector" id="select" href="servicios.php">SERVICIOS</a>
+            <a class="selector" href="contacto.php">CONTACTO</a>
+        </ul>
+    </nav>
+</header>
+
+<div class="banners">
+    <figure class="logo3 pull-left text-center">
+    <br>
+    <h1>COMERCIALIZADORA</h1>
+    <img src="../img/burthon.png" class="img-responsive" alt="">
+    <h1>SERVICIOS</h1>
+</figure>
+</div>
+
+<div class="section cservicios">
+      <div class="container cservicioss">
+      <h1 class="text-center">COMERCIALIZADORA BURTHON S.A de C.V.</h1> <br><br><br>
+         <div class="row">
+          <div class="col-md-4">
+            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
+            class="img-responsive">
+            <h2 class="text-center">A Title</h2>
+            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
+              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
+              <br>Ut enim ad minim veniam, quis nostrud</p>
+          </div>
+          <div class="col-md-4">
+            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
+            class="img-responsive">
+            <h2 class="text-center">A title</h2>
+            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
+              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
+              <br>Ut enim ad minim veniam, quis nostrud</p>
+          </div>
+          <div class="col-md-4">
+            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
+            class="img-responsive">
+            <h2 class="text-center">A title</h2>
+            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
+              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
+              <br>Ut enim ad minim veniam, quis nostrud</p>
+          </div>
+        </div> <br><br><br>
+
+        <div class="row">
+          <div class="col-md-4">
+            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
+            class="img-responsive">
+            <h2 class="text-center">A Title</h2>
+            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
+              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
+              <br>Ut enim ad minim veniam, quis nostrud</p>
+          </div>
+          <div class="col-md-4">
+            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
+            class="img-responsive">
+            <h2 class="text-center">A title</h2>
+            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
+              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
+              <br>Ut enim ad minim veniam, quis nostrud</p>
+          </div>
+          <div class="col-md-4">
+            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
+            class="img-responsive">
+            <h2 class="text-center">A title</h2>
+            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
+              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
+              <br>Ut enim ad minim veniam, quis nostrud</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div style="text-align: center; margin-top: 0%; margin-bottom: 5%;">
+      <a class="btn btn-primary btn-outline btn-lg" href="contacto.php">CONTACTANOS</a>
+    </div>
+
+
 <span class="ir-arriba"><i class="fa fa-chevron-up" aria-hidden="true"></i></span>
 <?php include 'pie.php' ?>
 <script src="../js/jquery.js"></script>
