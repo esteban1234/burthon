@@ -25,58 +25,64 @@
 
 <div class="section cservicios">
       <div class="container cservicioss">
-      <h1 class="text-center">COMERCIALIZADORA BURTHON S.A de C.V.</h1> <br><br><br>
+      <h1 class="text-center text-info">COMERCIALIZADORA BURTHON S.A de C.V.</h1> <br><br><br>
          <div class="row">
-          <div class="col-md-4">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
-            class="img-responsive">
-            <h2 class="text-center">A Title</h2>
-            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
+          <div class="col-md-4 uno">
+            <figure class="images img-rounded">
+
+            </figure> <br>
+            <h4 class="text-center text-info">Comercio al por mayor de artículos de papelería para uso escolar</h4>
+           <!--  <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
               <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-              <br>Ut enim ad minim veniam, quis nostrud</p>
+              <br>Ut enim ad minim veniam, quis nostrud</p> -->
           </div>
-          <div class="col-md-4">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
-            class="img-responsive">
-            <h2 class="text-center">A title</h2>
-            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
+          <div class="col-md-4 uno">
+            <figure class="images2 img-rounded">
+
+            </figure><br>
+            <h4 class="text-center text-info">Comercio al por mayor de artículos de papelería para uso de oficina</h4>
+            <!-- <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
               <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-              <br>Ut enim ad minim veniam, quis nostrud</p>
+              <br>Ut enim ad minim veniam, quis nostrud</p> -->
           </div>
-          <div class="col-md-4">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
-            class="img-responsive">
-            <h2 class="text-center">A title</h2>
-            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
+          <div class="col-md-4 uno">
+            <figure class="images3 img-rounded">
+
+            </figure><br>
+            <h4 class="text-center text-info">Comercio al por menor en articulos de ferretería</h4>
+            <!-- <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
               <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-              <br>Ut enim ad minim veniam, quis nostrud</p>
+              <br>Ut enim ad minim veniam, quis nostrud</p> -->
           </div>
         </div> <br><br><br>
 
         <div class="row">
-          <div class="col-md-4">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
-            class="img-responsive">
-            <h2 class="text-center">A Title</h2>
-            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
+          <div class="col-md-4 uno">
+            <figure class="images4 img-rounded">
+
+            </figure><br>
+            <h4 class="text-center text-info">Comercio al por menor en articulos de tlapalería</h4>
+            <!-- <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
               <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-              <br>Ut enim ad minim veniam, quis nostrud</p>
+              <br>Ut enim ad minim veniam, quis nostrud</p> -->
           </div>
-          <div class="col-md-4">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
-            class="img-responsive">
-            <h2 class="text-center">A title</h2>
-            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
+          <div class="col-md-4 uno">
+            <figure class="images5 img-rounded">
+
+            </figure><br>
+            <h4 class="text-center text-info">Comercio al por mayor de equipo eléctrico</h4>
+            <!-- <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
               <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-              <br>Ut enim ad minim veniam, quis nostrud</p>
+              <br>Ut enim ad minim veniam, quis nostrud</p> -->
           </div>
-          <div class="col-md-4">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
-            class="img-responsive">
-            <h2 class="text-center">A title</h2>
-            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
+          <div class="col-md-4 uno">
+            <figure class="images6 img-rounded">
+
+            </figure><br>
+            <h4 class="text-center text-info">Comercio al por mayor de material eléctrico</h4>
+            <!-- <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
               <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-              <br>Ut enim ad minim veniam, quis nostrud</p>
+              <br>Ut enim ad minim veniam, quis nostrud</p> -->
           </div>
         </div>
       </div>

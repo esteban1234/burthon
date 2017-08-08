@@ -252,4 +252,130 @@ footer p{
 .cservicioss{
   /*border: 2px green solid;*/
 }
+.uno{
+  border: 1px #EEEEEE solid;
+  padding: 10px;
+}
+.uno:hover{
+  background-color: #C5D43E;
+  color: #000;
+}
+.images{
+  /*border: 2px red solid;*/
+  height: 270px;
+  background: url('../img/papeleria2.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  /*background-attachment: fixed;*/
+  overflow: hidden;
+}
+.imags2{
+  /*border: 2px red solid;*/
+  height: 270px;
+  background: url('../img/oficina2.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  /*background-attachment: fixed;*/
+  overflow: hidden;
+}
+.images3{
+  /*border: 2px red solid;*/
+  height: 270px;
+  background: url('../img/ferreteria2.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  /*background-attachment: fixed;*/
+  overflow: hidden;
+}
+.images4{
+  /*border: 2px red solid;*/
+  height: 270px;
+  background: url('../img/tlapaleria.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  /*background-attachment: fixed;*/
+  overflow: hidden;
+}
+.images5{
+  /*border: 2px red solid;*/
+  height: 270px;
+  background: url('../img/equipo.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  /*background-attachment: fixed;*/
+  overflow: hidden;
+}
+.images6{
+  /*border: 2px red solid;*/
+  height: 270px;
+  background: url('../img/material.jpg');
+  background-size: cover;
+  /*background-position: center center;*/
+  /*background-repeat: no-repeat;*/
+  /*background-attachment: fixed;*/
+  overflow: hidden;
+}
 /*-----------------contacto-----------------*/
+.bannerc{
+    height: 500px;
+    background: url('../img/contacto.jpg');
+    background-size: cover;
+    background-position: center center;
+    /*background-repeat: no-repeat;*/
+    /*background-attachment: fixed;*/
+    overflow: hidden;
+}
+.logo4{
+  width: 35%;
+  /*margin-top: 3%;*/
+  background-color: rgba(255,255,255, .7);
+  height: 500px;
+}
+.contenmapa{
+  /*border: 2px red solid;*/
+  overflow: hidden;
+  width: 100%;
+  padding: 50px 0px;
+  background-color: #F7F9F9;
+}
+.fila{
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.contact-form{
+  margin-top:15px;
+}
+.contact-form .textarea{
+ min-height:220px;
+resize:none;
+}
+.form-control{ 
+  box-shadow:none; 
+  border-color:#eee; 
+  height:49px;
+}
+.form-control:focus{ 
+  box-shadow:none; 
+  order-color:#00b09c;
+}
+.form-control-feedback{ 
+  line-height:50px;
+}
+.main-btn{ 
+  background:#31708F; 
+  border-color:#31708F; 
+  color:#fff;
+}
+.main-btn:hover{ 
+  background:#C5D43E;
+  color:#fff;
+}
+.form-control-feedback {
+line-height: 50px;
+top: 0px;
+}
