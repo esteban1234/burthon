@@ -13,6 +13,11 @@
     </nav>
 </header>
 
+<div class="op-menu">
+  <i class="fa fa-bars fa-2x abrir" aria-hidden="true"></i>
+  <span class="cerrar">X</span>
+</div>
+
 <div class="bannern">
     <figure class="logo2 pull-left text-center">
     <br>
@@ -26,7 +31,7 @@
     <div class="container">
       <div class="row quieness">
         <div class="col-md-12">
-          <h1 class="text-info" style="border-bottom: 1px #31708F solid; padding-bottom: 1%;">¿Quiénes somos?</h1> <br><br>
+          <h1 class="text-info text-tit-nosotros" style="border-bottom: 1px #31708F solid; padding-bottom: 1%;">¿Quiénes somos?</h1> <br><br>
           <p class="lead">Somos una empresa 100% mexicana reconocida por nuestro gran surtido y variedad de productos en las áreas de papel, oficina, escolar, ferretería, tlapalería, electrónica y misceláneos, nos ha llevado a la vanguardia haciendo nuestra empresa lugar donde se despiertan las ganas de crear y materializar sus propias ideas, brindándoles la oportunidad de obtener todo lo que necesitan en un solo lugar.
           </p>
         </div>
@@ -39,17 +44,17 @@
                <div class="container mvv2">
                   <div class="row">
                      <div class="col-md-4 mision">
-                        <h2 class="text-center text-info">MISION</h2>
-                        <p class="text-center">Ofrecer a nuestros clientes el mejor surtido en Papelería, Artículos de oficina, escolares, Consumibles, ferretería, tlapalería, electrónica y misceláneos de las mejores marcas del mercado a precios competitivos, así como el mejor servicio que nos distinga por nuestra calidez, amabilidad y eficiencia.
+                        <h2 class="text-center text-info text-tit-mvv">MISION</h2>
+                        <p class="text-center text-justificado">Ofrecer a nuestros clientes el mejor surtido en Papelería, Artículos de oficina, escolares, Consumibles, ferretería, tlapalería, electrónica y misceláneos de las mejores marcas del mercado a precios competitivos, así como el mejor servicio que nos distinga por nuestra calidez, amabilidad y eficiencia.
                         </p>
                      </div>
                      <div class="col-md-3 mision">
-                        <h2 class="text-center text-info">VISION</h2>
-                        <p class="text-center">Continuar siendo una de las principales empresas mayoristas de Papelería, Artículos de oficina, escolares, Consumibles, ferretería, tlapalería, electrónica y misceláneos de las mejores marcas del mercado en todo el pais.
+                        <h2 class="text-center text-info text-tit-mvv">VISION</h2>
+                        <p class="text-center text-justificado">Continuar siendo una de las principales empresas mayoristas de Papelería, Artículos de oficina, escolares, Consumibles, ferretería, tlapalería, electrónica y misceláneos de las mejores marcas del mercado en todo el pais.
                         </p>
                      </div>
                      <div class="col-md-3 mision">
-                        <h2 class="text-center text-info">VALORES</h2>
+                        <h2 class="text-center text-info text-tit-mvv">VALORES</h2>
                         <p class="text-center">
                         * Trabajo en equipo <br>
                         * Responsabilidad <br>
@@ -67,7 +72,7 @@
     <div class="container">
       <div class="row quieness">
         <div class="col-md-12">
-          <h1 class="text-info" style="border-bottom: 1px #31708F solid; padding-bottom: 1%;">¿POR QUÉ ELEGIR A BURTHON?</h1> <br><br>
+          <h1 class="text-info text-eleccion-h1" style="border-bottom: 1px #31708F solid; padding-bottom: 1%;">¿POR QUÉ ELEGIR A BURTHON?</h1> <br><br>
           <div class="row">
             <div class="col-md-4 ">
                <h4 class="text-center">UNA AMPLIA SELECCIÓN</h4> <br><br>
@@ -94,6 +99,7 @@
 <span class="ir-arriba"><i class="fa fa-chevron-up" aria-hidden="true"></i></span>
 <?php include 'pie.php' ?>
 <script src="../js/jquery.js"></script>
+<script src="../js/menu.js"></script>
 <script src="../js/bootstrap.js"></script>
 <script src="../js/botonarriba.js"></script>
 </body>
