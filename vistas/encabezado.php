@@ -8,8 +8,8 @@
 	 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"> 
   	<META NAME="Title" content="COMERCIALIZADORA BURTHON">
   	<META NAME="Author" CONTENT="[http://burthon.com/]"/>
-  	<META name="Description" content="Somos una compañía dedicados a ofrecer servicios de comercialización de telas, refacciones de automoviles, refacciones de computo y bisuteria, Etc."/>
-     <META NAME="Keywords" CONTENT="Comercialización de telas, refacciones de automoviles, refacciones de computo y bisuteria."/>
+  	<META name="Description" content="Somos una compañía dedicados a ofrecer productos de ferreteria, productos de tlapaleria, productos de papeleria, Etc."/>
+     <META NAME="Keywords" CONTENT="Comercialización productos de ferreteria, productos de tlapaleria, productos de papeleria, Etc."/>
   	<link rel="stylesheet" href="css/bootstrap.css">
   	<link rel="stylesheet" href="css/iconos.min.css">
 	<link rel="stylesheet" href="css/estilos.css">
