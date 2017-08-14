@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	
+	<meta name="google-site-verification" content="72dlTNIRp7s4ccWf82eL8o2dPdB53kv0XLzv7MZh7nA" />
 	<link rel="icon" type="image/png" href="../img/favicon.png" />
 	<title>COMERCIALIZADORA BURTHON</title>
 	 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"> 
